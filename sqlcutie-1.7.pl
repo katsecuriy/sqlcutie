@@ -278,6 +278,7 @@ sub main
 	print GREEN, " \n--------------------------------------\n";
 	print BOLD," \n    SQLCutie ",YELLOW,"1.7\n",RESET;
 	print BLUE," \n    madfedora\@openmail.cc\n",RESET;
+	print BLUE," \n    audiomachinery\@mail.ru\n",RESET;
 	print GREEN," \n--------------------------------------\n\n",RESET;
 	if (@ARGV+1){print GREEN,"[?] For Help : ",BOLD,"$0 -h\n\n",RESET;}
 }
